@@ -26,3 +26,5 @@ mini-project/
 ├── products.php     # Data Layer (Array Multidimensi)
 ├── functions.php    # Processing Layer (Fungsi & Logika)
 └── index.php        # Presentation Layer (Tampilan HTML & Loop)
+<img width="940" height="321" alt="product-information-system png" src="https://github.com/user-attachments/assets/d21d90f9-d633-4f5d-aee4-127650d4ef98" />
+
