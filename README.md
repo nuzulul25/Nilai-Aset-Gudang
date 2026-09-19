@@ -1,6 +1,8 @@
 # Product Information System (Mini Project 1)
 
 Sistem Informasi Manajemen Data Produk berbasis PHP modular yang dirancang menggunakan pendekatan arsitektur 3-Layer (*Data*, *Processing*, dan *Presentation Layer*).
+<img width="940" height="321" alt="product-information-system png" src="https://github.com/user-attachments/assets/1a1c215f-f1f7-4522-8cc7-63aa149852eb" />
+
 
 ---
 
@@ -26,5 +28,4 @@ mini-project/
 ├── products.php     # Data Layer (Array Multidimensi)
 ├── functions.php    # Processing Layer (Fungsi & Logika)
 └── index.php        # Presentation Layer (Tampilan HTML & Loop)
-<img width="940" height="321" alt="product-information-system png" src="https://github.com/user-attachments/assets/d21d90f9-d633-4f5d-aee4-127650d4ef98" />
 
